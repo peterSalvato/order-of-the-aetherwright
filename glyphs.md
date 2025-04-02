@@ -1,6 +1,6 @@
 # Glyph System of the Order of the Ætherwright
 
-This document defines the full symbolic classification system used by the Order of the Ætherwright. It encodes domain, phase, and intensity within a compact ritual syntax to record, refine, and reflect creative process across time.
+This document defines the full symbolic classification system used by the Order of the Ætherwright. It encodes domain, phase, and intensity within a compact syntax to help practitioners record, refine, and reflect on creative process across time.
 
 ---
 
@@ -17,33 +17,33 @@ Each domain is represented by a fixed geometric glyph. These are canonical. No n
 | ■     | Design / Grid             | Square            | Spatial logic, typographic structure         |
 | ◆     | Craft / Physical Work     | Diamond           | Printmaking, fabrication, artifact           |
 | ⬟     | Photography / Observation | Pentagon Up       | Framing, seeing, capturing                   |
-| ⮠     | Code / Engineering        | Pentagon Down     | Logic, systems architecture                  |
+| ⬠     | Code / Engineering        | Pentagon Down     | Logic, systems architecture                  |
 
 ---
 
 ## II. Meta-symbols
 
-| Glyph | Function         | Notes                                                                 |
-|-------|------------------|-----------------------------------------------------------------------|
-| ●     | Ritual / Self    | Container symbol. Used sparingly. Frames or amplifies a sequence.     |
+| Glyph | Function         | Notes                                                       |
+|-------|------------------|-------------------------------------------------------------|
+| ●     | Ritual / Self    | Container symbol. Used sparingly. Frames or highlights use. |
 
 ---
 
 ## III. Intensity Logic
 
-- **Filled Glyph** = Primary Domain (e.g. `▲`)
-- **Outline Glyph** = Secondary Domain (e.g. `▲` outline only)
-- **Omitted** = Not active in that phase
+- **Filled Glyph** = Primary domain
+- **Outlined Glyph** = Secondary domain
+- **Omitted** = Not present during that phase
 
-There are no textual modifiers. Intensity is purely visual and symbolic.
+Intensity is shown visually. No textual modifiers are used.
 
 ---
 
 ## IV. Codex Syntax Format
 
-The Codex string is the core symbolic expression of a creative act. It is compact, phase-aware, and recursively meaningful.
+The Codex string is the core symbolic expression of a creative act. It captures domain involvement by phase.
 
-**Syntax Format**:
+**Syntax Format:**
 
 ```
 #∴ ‹ [Phase 1 Glyphs] | [Phase 2 Glyphs] || [Phase 3 Glyphs] ||| › >>
@@ -54,12 +54,12 @@ The Codex string is the core symbolic expression of a creative act. It is compac
 | Symbol | Meaning                                  |
 |--------|------------------------------------------|
 | `#`    | Grid anchor; structured intention        |
-| `∴`    | Ritual initiation mark                   |
-| `‹ ›`  | Phase container brackets                 |
+| `∴`    | Initiation mark; begins Codex            |
+| `‹ ›`  | Brackets; contain the full sequence      |
 | `|`    | Phase 1: Deconstruction                  |
 | `||`   | Phase 2: Iteration                       |
 | `|||`  | Phase 3: Synthesis                       |
-| `>>`   | Transmission mark; closure or output     |
+| `>>`   | Transmission; denotes completion         |
 
 ---
 
@@ -68,7 +68,7 @@ The Codex string is the core symbolic expression of a creative act. It is compac
 ### 1. Full Creative Sequence
 
 ```
-#∴ ‹ ▲ ◆ | ■ ▼ || ▶ ⮠ ||| › >>
+#∴ ‹ ▲ ◆ | ■ ▼ || ▶ ⬠ ||| › >>
 ```
 
 - ▲ (UX) = Primary in Phase 1  
@@ -76,37 +76,41 @@ The Codex string is the core symbolic expression of a creative act. It is compac
 - ■ (Design) = Primary in Phase 2  
 - ▼ (Narrative) = Secondary in Phase 2  
 - ▶ (Illustration) = Primary in Phase 3  
-- ⮠ (Code) = Secondary in Phase 3  
+- ⬠ (Code) = Secondary in Phase 3  
 
-### 2. Ritual-Elevated Work (using ●)
+### 2. Elevated Sequence Using ●
 
 ```
 #∴ ‹ ● ▲ ▼ | ● ■ || ▶ ● ||| › >>
 ```
 
-- ● = Ritual container applied to each phase  
-- Glyph intensity as usual  
+- ● marks each phase as intentionally emphasized
+- Glyph intensity functions as usual
 
 ---
 
 ## VI. Sigil Construction
 
-- The 8 glyphs are arranged radially around a central ●  
-- Triangle glyphs are placed in opposing directions for symbolic symmetry  
-- ‹› chevrons may be reoriented visually to reflect ritual phases:
+The eight glyphs can also be arranged in a radial diagram for visual clarity. This is an optional format used for summaries, overviews, or symbolic referencing.
+
+- Triangle glyphs are placed in opposing positions to suggest balance  
+- The ● symbol may appear at the center as a stabilizing marker  
+- Chevrons ‹ › can be reoriented visually to reflect **phase emphasis**:
   - ›‹ = Deconstruction
   - ∴ = Iteration
   - ‹› = Synthesis
+
+This layout is optional. It does not affect syntax or use.
 
 ---
 
 ## VII. Initiation Markers & Metadata (Not in Syntax)
 
-The `//` symbol represents the **Initiation Phase**, a pre-Codex threshold where the practitioner is aligning internally but not yet operating fully through the system.
+The `//` marker denotes an **Initiation Phase**—a stage where the practitioner is aligned with the system but not yet using it fully.
 
-- Used outside of the Codex string
-- Appears in sigil lockups, sketchbooks, or practice logs
-- Denotes early alignment, self-recognition, or symbolic resonance
+- Used *outside* of the Codex syntax  
+- Appears in personal logs, sketchbooks, or file naming  
+- Represents early awareness or observation mode
 
 **Example Lockup:**
 
@@ -114,14 +118,24 @@ The `//` symbol represents the **Initiation Phase**, a pre-Codex threshold where
 #∴ // ‹ ▲ ▼ › >>
 ```
 
+This does not change how the Codex functions. It simply marks context.
+
 ---
 
-## VIII. Symbolic Density & Integration
+## VIII. Practical Integration
 
-The Codex is not just a syntax—it is a reflection of lived attention.
+The Codex is not branding or decoration—it’s a practical tool for working with attention.
 
-- It may be embedded in project files, folder names, sketchbook pages, or metadata
-- The more intentional the practitioner, the more meaning each glyph carries
-- Over time, this becomes a recursive mirror: the system documents the work, and the work refines the system
+It may appear in:
+- Project files or sketchbook pages
+- Naming conventions and metadata
+- Documentation or internal notes
 
-> 🔐 This is a closed glyph set. Expansion is not permitted. Interpretations may evolve; symbols do not.
+The more consistently it’s used, the more useful it becomes. Over time, the system reflects your patterns back to you. It helps you notice what you emphasize, what you overlook, and how your creative work evolves.
+
+There is no performance here. Just structure, use, and reflection.
+
+---
+
+> 🔒 This is a closed glyph set. Symbols are fixed. Meaning deepens through repeated use.
+
