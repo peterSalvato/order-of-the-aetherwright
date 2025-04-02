@@ -1,6 +1,3 @@
-"Codex and doctrine of the Order of the Ætherwright."
-
-
 # The Order of the Ætherwright
 
 *This is not a manifesto.  
@@ -51,6 +48,7 @@ Engagement is modular. You may:
 - Embed it as a living ritual of practice
 
 You may adopt it, observe it, or ignore it.
+But once seen, it cannot be unseen.
 
 ---
 
