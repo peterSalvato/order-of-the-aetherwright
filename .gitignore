@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Illustrator & Photoshop temp files
+*.tmp
+*.bak
+
+# Optional: large binaries if you don't want to commit source files right away
+# Uncomment below if excluding working files
+# *.ai
+# *.psd
+# *.tif
+# *.zip
+# *.pdf
+
+# Savepoint logs
+.savepoints/
