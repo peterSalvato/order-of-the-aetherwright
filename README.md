@@ -51,7 +51,6 @@ Engagement is modular. You may:
 - Embed it as a living ritual of practice
 
 You may adopt it, observe it, or ignore it.
-But once seen, it cannot be unseen.
 
 ---
 
