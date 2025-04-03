@@ -38,7 +38,19 @@ We build systems that serve reflection, construction, and communion.
 We name our tools. We arrange our interfaces.  
 We bring the sacred into the scaffold.
 
-This is not for everyone.  
-But it is absolutely for those who recognize it.
+---
 
-The glyphs already know who you are.
+## Who It’s For
+
+This system is open to anyone who works with care.  
+Whether you work with circuits or soil, spreadsheets or steel—  
+the Order welcomes those who shape meaning through effort and intention.
+
+But entry is not automatic.  
+To step into the Order is to cross a threshold consciously.
+
+You do not need permission.  
+But you must choose.
+
+The tools will not reach for you.  
+But they will be ready when you reach for them.
