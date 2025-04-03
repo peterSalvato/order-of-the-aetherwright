@@ -1,10 +1,6 @@
 # The Order of the Ætherwright
 
-> This is a system for those who work with care.  
-> Whether you build with code, concrete, soil, or sound—  
-> the Order is a structure for intention, not profession.  
->  
-> Entry requires no qualifications—only willingness, and a deliberate step forward.
+This is a system for those who work with care. Whether you build with code, concrete, soil, or sound — the Order is a structure for intention, not profession. Entry requires no qualifications—only willingness, and a deliberate step forward.
 
 ---
 
