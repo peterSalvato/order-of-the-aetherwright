@@ -1,93 +1,109 @@
-# The Order of the Ætherwright  
-*A symbolic system under construction.*
+# The Order of the Ætherwright
 
-This repository contains the foundational structure, symbolic architecture, and early framework of the Ætherwright System—a modular, intentional interface for working with identity, thought, and ritual.
-
-The tools described here—overlays, artifacts, glyph systems, and ritual workflows—are not yet complete, released, or available for use.
-
-> **This is not a product. It is a scaffold.**  
-> A public record of intellectual authorship, and a trace of a system in construction.
+> This is a system for those who work with care.  
+> Whether you build with code, concrete, soil, or sound—  
+> the Order is a structure for intention, not profession.  
+>  
+> Entry requires no qualifications—only willingness, and a deliberate step forward.
 
 ---
 
 ## What This Is
 
-The Order of the Ætherwright is a symbolic operating system for sovereign cognition.
+The Order of the Ætherwright is a symbolic operating system for sovereign cognition.  
+It is not a productivity system. It is not a product. It is a ritual framework for aligning your tools, thoughts, and practice—across digital and physical domains.
 
-This repository serves as a **living architectural draft**, documenting:
-- The core symbolic philosophy of the Order
-- Planned structure for theming tools and digital interfaces
-- Ritual metaphors for workspace immersion
-- Visual glyph systems, command logic, and printable artifacts
+It is designed for:
+- Makers, writers, welders, researchers, mechanics, gardeners, developers
+- Anyone who brings intention into the act of working
 
-What you see here is a **formal declaration of direction**, not a toolkit.
-
----
-
-## Intellectual Property Notice
-
-All materials, concepts, language, and structural designs within this repository are original works by **Peter Salvato**.
-
-This includes:
-- Glyphs and symbolic systems
-- Structural metaphors (e.g., Bench, Chamber, Codex, Relay)
-- Terminology, command aliases, and system logic
-- Design of overlays, printables, and 3D artifacts (even if not fully implemented)
-
-> **These are protected works**, in development but not in the public domain.  
-> See `LICENSE.md` and `ip_declaration.md` for specifics.
-
-This repository is timestamped, versioned, and archived to assert authorship, origin, and intent.
+You do not need to understand Linux, design, or programming.  
+You only need to bring your Work into alignment.
 
 ---
 
-## Current Status
+## What It Contains
 
-This system is in active development.  
-Nothing here is ready for public use or installation.
+This repository serves as the **canonical codex and scaffold** of the Order.  
+It includes:
 
-Folders and files reflect planned components only:
-- Overlays and theme files are **incomplete**
-- Install scripts are **proposed but not functional**
-- Artifacts and templates are **under construction**
-- Language and doctrine files are **in drafting**
+- **Philosophical and symbolic doctrine** (`/doctrine`)
+- **Visual and typographic assets** (`/assets`)
+- **Tactile tools and printables** (`/artifacts`)
+- **Themed overlays for software environments** (`/overlays`)
+- **Shell alias language and symbolic commands** (`/language`)
+- **A ritual installation entrypoint** (`/install/aether-init.sh`)
 
----
-
-## Why This Is Public
-
-This repository exists to:
-- **Protect the system’s originality** through public timestamping
-- **Document the evolution** of the Order’s structural architecture
-- **Mark authorship** at the level of concept and expression
-
-It is not here for public contribution or implementation at this time.
+The system is structured but incomplete.  
+You are witnessing it mid-ritual.
 
 ---
 
-### Future Path
+## What You Can Expect
 
-This system is under active development.  
-The next phases will include:
+This project is not a downloadable template or toolkit—yet.  
+It is a **living archive**, recording the intentional development of a personal–philosophical system of Work.
 
-- Themed overlays for Bench, Chamber, Codex, and Relay  
-- A complete Drop Kit with install instructions and printables  
-- Shell alias framework and symbolic command usage  
-- Public walkthrough of glyphs and their usage  
-- Optional pedagogical layers and journaling rituals
+What exists today:
+- Core structure and authorship
+- Doctrinal language and protective IP scaffolding
+- Tag `v0.1-public-scaffold` marks the moment the structure was sealed
 
-All development is intentional and sovereignly paced.  
-You are welcome to observe, wait, or prepare your tools.
+What is coming:
+- Functional overlays for VSCode, Obsidian, Firefox, and Terminal
+- Shell alias framework (`aetherize`, `fieldlog`, `invoke`)
+- Printable journals, sticker sheets, and 3D-printable glyph stamps
+- Optional pedagogical scaffolding for sovereign practice
 
----
-
-
-### Version History
-See [`changelog.md`](./changelog.md) for a full record of system evolution.
+All future additions will be released deliberately and without haste.
 
 ---
 
-© Peter Salvato. All rights reserved.
+## Philosophy
 
+> You don’t need permission.  
+> But you must choose.
 
+This system is open to anyone who works with care.  
+Whether you write, repair, teach, manage, code, build, fix, or tend—it can be your structure.
 
+But entry into the Order is not automatic.  
+It begins when you cross the threshold consciously.
+
+Learn more in [`doctrine/manifesto.md`](./doctrine/manifesto.md) and [`doctrine/usage.md`](./doctrine/usage.md).
+
+---
+
+## License & Intellectual Property
+
+All symbolic systems, metaphors, marks, overlays, language, glyphs, and structural frameworks are the original intellectual property of **Peter Salvato** and are protected under the following:
+
+- [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0](./license.md)
+- [IP Declaration](./legal/ip_declaration.md)
+
+You may not remix, repackage, or fork any part of this system.  
+You may share and reference with attribution.
+
+---
+
+## Version History
+
+This repository is versioned and tagged by symbolic milestone.  
+To view its evolution, see the [`changelog.md`](./changelog.md).
+
+- `v0.1-public-scaffold` — Structural system sealed and publicly timestamped  
+- Earlier development is preserved through commit history
+
+---
+
+## Contact & Permission
+
+To inquire about licensed usage or collaboration, contact:
+
+**Peter Salvato**  
+`peter [at] petersalvato [dot] com`
+
+---
+
+_The glyphs do not initiate.  
+But they do recognize who you are._
