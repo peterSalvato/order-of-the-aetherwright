@@ -1,65 +1,81 @@
-# The Order of the Ætherwright
+# The Order of the Ætherwright  
+*A symbolic system under construction.*
 
-*This is not a manifesto.  
-This is a manual.*
+This repository contains the foundational structure, symbolic architecture, and early framework of the Ætherwright System—a modular, intentional interface for working with identity, thought, and ritual.
 
-The Order of the Ætherwright is a symbolic system for tracking meaning, refining creative practice, and living with structural intention. It is not a persona, a brand, or a performance. It is a grammar for sacred work.
+The tools described here—overlays, artifacts, glyph systems, and ritual workflows—are not yet complete, released, or available for use.
 
-Rooted in alchemical structure, typographic clarity, and recursive reflection, the Order provides a framework to encode creative process, map symbolic domains, and document inner transformation through external form.
-
----
-
-## What This Repository Contains
-
-This is the canonical archive of the Order. Each document is part of a unified symbolic and philosophical structure:
-
-- `docs/philosophy.md` – Foundational worldview, influences, and governing ethos
-- `docs/system.md` – Creative methodology, project alignment, and symbolic mechanics
-- `docs/glyphs.md` – Canonical glyph system: domain mapping, syntax, and intensity logic
-- `docs/language.md` – Internal vocabulary: terms, concepts, and classifications
-- `docs/invocation.md` – Optional ritual and onboarding guidance for alignment
+> **This is not a product. It is a scaffold.**  
+> A public record of intellectual authorship, and a trace of a system in construction.
 
 ---
 
-## Who This Is For
+## What This Is
 
-The Order is for:
+The Order of the Ætherwright is a symbolic operating system for sovereign cognition.
 
-- Systems thinkers and symbolic designers
-- Practitioners of intentional craft
-- Those who believe structure can carry meaning
+This repository serves as a **living architectural draft**, documenting:
+- The core symbolic philosophy of the Order
+- Planned structure for theming tools and digital interfaces
+- Ritual metaphors for workspace immersion
+- Visual glyph systems, command logic, and printable artifacts
 
-This is not for:
-
-- Commercial repackaging
-- Performative mysticism
-- Aesthetic trend-chasing
-
-If it resonates, treat it with care. If not, let it pass.
+What you see here is a **formal declaration of direction**, not a toolkit.
 
 ---
 
-## How to Use This System
+## Intellectual Property Notice
 
-Engagement is modular. You may:
+All materials, concepts, language, and structural designs within this repository are original works by **Peter Salvato**.
 
-- Study it as symbolic theory
-- Apply it to creative process
-- Embed it as a living ritual of practice
+This includes:
+- Glyphs and symbolic systems
+- Structural metaphors (e.g., Bench, Chamber, Codex, Relay)
+- Terminology, command aliases, and system logic
+- Design of overlays, printables, and 3D artifacts (even if not fully implemented)
 
-You may adopt it, observe it, or ignore it.
-But once seen, it cannot be unseen.
+> **These are protected works**, in development but not in the public domain.  
+> See `LICENSE.md` and `ip_declaration.md` for specifics.
 
----
-
-## License & Attribution
-
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-
-- You may share and adapt for personal or non-commercial use
-- You must provide attribution to Peter Salvato
-- Commercial use is not permitted
+This repository is timestamped, versioned, and archived to assert authorship, origin, and intent.
 
 ---
 
-**Structure is sacred when chosen with intention.**
+## Current Status
+
+This system is in active development.  
+Nothing here is ready for public use or installation.
+
+Folders and files reflect planned components only:
+- Overlays and theme files are **incomplete**
+- Install scripts are **proposed but not functional**
+- Artifacts and templates are **under construction**
+- Language and doctrine files are **in drafting**
+
+---
+
+## Why This Is Public
+
+This repository exists to:
+- **Protect the system’s originality** through public timestamping
+- **Document the evolution** of the Order’s structural architecture
+- **Mark authorship** at the level of concept and expression
+
+It is not here for public contribution or implementation at this time.
+
+---
+
+## Future Direction
+
+Once foundational components are stabilized, this repository will include:
+- A complete Drop Kit
+- Themed overlays for creative tools
+- Printable and physical artifacts
+- Ritual workspace guides
+- Licensed pathways for usage, adaptation, and stewardship
+
+For now, this is a **chamber in preparation**.
+
+---
+
+© Peter Salvato. All rights reserved.
