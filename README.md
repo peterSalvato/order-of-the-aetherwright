@@ -78,4 +78,12 @@ For now, this is a **chamber in preparation**.
 
 ---
 
+### Version History
+See [`changelog.md`](./changelog.md) for a full record of system evolution.
+
+---
+
 © Peter Salvato. All rights reserved.
+
+
+
