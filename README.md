@@ -65,18 +65,22 @@ It is not here for public contribution or implementation at this time.
 
 ---
 
-## Future Direction
+### Future Path
 
-Once foundational components are stabilized, this repository will include:
-- A complete Drop Kit
-- Themed overlays for creative tools
-- Printable and physical artifacts
-- Ritual workspace guides
-- Licensed pathways for usage, adaptation, and stewardship
+This system is under active development.  
+The next phases will include:
 
-For now, this is a **chamber in preparation**.
+- Themed overlays for Bench, Chamber, Codex, and Relay  
+- A complete Drop Kit with install instructions and printables  
+- Shell alias framework and symbolic command usage  
+- Public walkthrough of glyphs and their usage  
+- Optional pedagogical layers and journaling rituals
+
+All development is intentional and sovereignly paced.  
+You are welcome to observe, wait, or prepare your tools.
 
 ---
+
 
 ### Version History
 See [`changelog.md`](./changelog.md) for a full record of system evolution.
